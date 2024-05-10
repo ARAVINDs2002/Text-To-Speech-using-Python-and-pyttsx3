@@ -4,7 +4,7 @@ import pyttsx3
 engine = pyttsx3.init()
 
 # Set properties (optional)
-engine.setProperty('rate', 150)    # Speed of speech (words per minute)
+engine.setProperty('rate', 150)    # Speed of speech (words per minute )
 engine.setProperty('volume', 0.9)  # Volume (0.0 to 1.0)
 # Prompt the user to enter text
 print("|*******************************************************|")
